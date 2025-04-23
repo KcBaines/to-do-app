@@ -1,0 +1,47 @@
+.task-input {
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  font-size: 20px; 
+  font-family: "Delius", cursive;
+  margin-right: 10px; 
+  margin-left: 45px;
+}
+
+.button {
+  border: 1px solid #ccc; 
+  border-radius: 4px; 
+  font-size: 20px; 
+  font-family: "Delius", cursive;
+}
+
+.bi-trash {
+  font-size: 20px;
+  padding: 5px;
+  margin-left: 20px;
+  float: right;
+}
+
+.bi-pencil {
+  font-size: 20px;
+  padding: 5px;
+  margin-left: 20px;
+  float: right;
+}
+
+ol li {
+  font-size: 22px; 
+  font-family: "Delius", cursive;
+  padding: 5px;
+}
+
+ol li input[type="checkbox"] {
+  margin-right: 10px;
+  width: 20px;
+  height: 20px;
+  accent-color: rgb(59, 59, 241); 
+}
+
+.box1 {
+  width: 670px;
+  margin-left: 15px;
+}
